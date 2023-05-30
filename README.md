@@ -9,7 +9,6 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -33,7 +32,6 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [HELLO MICROVERSE!] <a name="about-project"></a>
 
@@ -55,7 +53,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - Add the linter for the project to fix the errors and clean the codeok_hand
 - User-friendly Interface: Simple and intuitive interface for a seamless user experience.rocket
@@ -66,8 +63,6 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://afsheen96.github.io/Hello-Microverse)
 
@@ -97,7 +92,6 @@ Using the <em>git clone</em> command
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Afsheen96**
 
@@ -109,7 +103,6 @@ Using the <em>git clone</em> command
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[add more interactive buttons and sections]**
 - [ ] **[style it beautifully]**
@@ -129,8 +122,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project please don't hesitate to support me with your valued contribution and don't forget to star the repo to reach more
 people.
