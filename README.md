@@ -18,19 +18,14 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
+  
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
+
 
 
 # 📖 [HELLO MICROVERSE!] <a name="about-project"></a>
@@ -74,35 +69,40 @@
 
 To get a local copy up and running, follow these steps.
 
-1. Prerequisites
+**1.  Prerequisites**
 
 In order to run this project you need:
 
 - Visual Studio
 - Github
+- git
 
-2. Setup
+**2. Setup**
 
 Clone this repository to your desired folder:
 
 Example commands:
 
 git clone https://github.com/afsheen96/Hello-Microverse.git
-3. Install
 
-Install this project with:
 
-4. Usage
+**3. Install**
+
+Install this project with: Vs code
+
+**4. Usage**
  
- To run the project, execute the following command:
-
-5. Run tests
+ To run the project, use github Live Server extension
  
- To run tests, run the following command:
 
-6. Deployment
+**5. Run tests**
  
- You can deploy this project using:
+run the test to make sure it is working properly.
+
+**6. Deployment**
+ 
+ now you can deploy your project.
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
