@@ -168,7 +168,7 @@ make this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Afsheen96/Hello-Microverse/blob/master/MIT.md/LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
