@@ -74,19 +74,35 @@
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
+1. Prerequisites
 
 In order to run this project you need:
 
--VScode
--Prettier Extention
--Git
+- Visual Studio
+- Github
 
-### Setup
+2. Setup
 
 Clone this repository to your desired folder:
 
-Using the <em>git clone</em> command
+Example commands:
+
+git clone https://github.com/afsheen96/Hello-Microverse.git
+3. Install
+
+Install this project with:
+
+4. Usage
+ 
+ To run the project, execute the following command:
+
+5. Run tests
+ 
+ To run tests, run the following command:
+
+6. Deployment
+ 
+ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
