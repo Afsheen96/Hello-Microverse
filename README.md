@@ -170,6 +170,6 @@ make this project.
 
 This project is [MIT](https://github.com/Afsheen96/Hello-Microverse/blob/feature-branch/MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
