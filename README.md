@@ -18,7 +18,11 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Deployment](#Deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -88,20 +92,32 @@ git clone https://github.com/afsheen96/Hello-Microverse.git
 
 **3. Install**
 
-Install this project with: Vs code
+- please first install the node package files
+   - npm install
 
 **4. Usage**
  
- To run the project, use github Live Server extension
+ - In order to use this project you create branch to add more feature.
+  - But in order to run the project use below commands. 
+    - npm run build (It will create a production ready file)
+    - npm start (It will run the server on your machine)
+
+    
  
 
-**5. Run tests**
+**5. Run Linters**
  
-run the test to make sure it is working properly.
+I have added linters or tests in order to avoid typos and ensure good practice in this project.So while using this repository if you need to check your work no matters have worked on html, css and js you can use below commands
+- In order to run the linter test on `index.html` or any html file. use below command
+
+  `npx hint` .
+- To run linter test on stylesheets. Use below command
+
+ ` npx stylelint "**/*.{css,scss}"`
 
 **6. Deployment**
  
- now you can deploy your project.
+ You can deploy your project using `github` free source.
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
