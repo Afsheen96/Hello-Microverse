@@ -32,10 +32,10 @@
 
 
 
-# 📖 [HELLO MICROVERSE!] <a name="about-project"></a>
+# 📖 HELLO MICROVERSE! <a name="about-project"></a>
 
 > This is my first project with Microverse using Github professional flow
-**[Hello Microverse]** 
+**Hello Microverse** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
