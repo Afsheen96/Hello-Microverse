@@ -9,7 +9,6 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -23,17 +22,15 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
+  - [Deployment](#Deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 [HELLO MICROVERSE!] <a name="about-project"></a>
 
@@ -55,7 +52,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - Add the linter for the project to fix the errors and clean the codeok_hand
 - User-friendly Interface: Simple and intuitive interface for a seamless user experience.rocket
@@ -67,9 +63,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://afsheen96.github.io/Hello-Microverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,25 +73,57 @@
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
+**1.  Prerequisites**
 
 In order to run this project you need:
 
--VScode
--Prettier Extention
--Git
+- Visual Studio
+- Github
+- git
 
-### Setup
+**2. Setup**
 
 Clone this repository to your desired folder:
 
-Using the <em>git clone</em> command
+Example commands:
+
+git clone https://github.com/afsheen96/Hello-Microverse.git
+
+
+**3. Install**
+
+- please first install the node package files
+   - npm install
+
+**4. Usage**
+ 
+ - In order to use this project you create branch to add more feature.
+  - But in order to run the project use below commands. 
+    - npm run build (It will create a production ready file)
+    - npm start (It will run the server on your machine)
+
+    
+ 
+
+**5. Run Linters**
+ 
+I have added linters or tests in order to avoid typos and ensure good practice in this project.So while using this repository if you need to check your work no matters have worked on html, css and js you can use below commands
+- In order to run the linter test on `index.html` or any html file. use below command
+
+  `npx hint` .
+- To run linter test on stylesheets. Use below command
+
+ ` npx stylelint "**/*.{css,scss}"`
+
+**6. Deployment**
+ 
+ You can deploy your project using `github` free source.
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Afsheen96**
 
@@ -109,7 +135,6 @@ Using the <em>git clone</em> command
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[add more interactive buttons and sections]**
 - [ ] **[style it beautifully]**
@@ -130,8 +155,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please don't hesitate to support me with your valued contribution and don't forget to star the repo to reach more
 people.
 
@@ -148,28 +171,12 @@ make this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-
-
-- **[Can I clone this project ?]**
-
-  - [Of course you can as long as you fork it and star it]
-
-- **[Can I contribute to this project?]**
-
-  - [definitely you can]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Afsheen96/Hello-Microverse/blob/master/MIT.md/LICENSE) licensed.
+This project is [MIT](https://github.com/Afsheen96/Hello-Microverse/blob/feature-branch/MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
